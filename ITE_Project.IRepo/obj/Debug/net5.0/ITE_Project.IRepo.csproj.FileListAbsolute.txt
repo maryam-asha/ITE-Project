@@ -1,0 +1,102 @@
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfo.cs
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.deps.json
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.dll
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.pdb
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CopyComplete
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.dll
+C:\Users\USER\source\repos\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.pdb
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.deps.json
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.dll
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.dll
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.pdb
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.pdb
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.AssemblyReference.cache
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfoInputs.cache
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfo.cs
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CopyComplete
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.deps.json
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.AssemblyReference.cache
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfoInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfo.cs
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CopyComplete
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.deps.json
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.pdb
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.AssemblyReference.cache
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfoInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfo.cs
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CopyComplete
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (6)\New folder (2)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.deps.json
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.AssemblyReference.cache
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfoInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfo.cs
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CopyComplete
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.deps.json
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.IRepo.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\ITE_Project.Dto.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\bin\Debug\net5.0\MyTables.pdb
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.AssemblyReference.cache
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfoInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.AssemblyInfo.cs
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.csproj.CopyComplete
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ref\ITE_Project.IRepo.dll
+C:\Users\InformaTeam\Desktop\New folder (8)\New folder\ITE_Project\ITE_Project.IRepo\obj\Debug\net5.0\ITE_Project.IRepo.pdb
